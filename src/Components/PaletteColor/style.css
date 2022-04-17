@@ -1,0 +1,23 @@
+.palette-color{
+  max-width: 500px;
+  margin: 3rem auto 0;
+}
+.view{
+  width: 100%;
+  height: 300px;
+  border-radius: .3rem;
+}
+
+.palette-color .btns{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.btns .btn{
+  width: 19%;
+  margin: 0 1%;
+  padding: 1.5rem 1rem;
+  border-radius: .2rem;
+}

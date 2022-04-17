@@ -1,0 +1,42 @@
+.signup-form{
+  width: 100%;
+}
+
+.signup-form .form-group{
+  margin: 0 0 1rem;
+}
+
+.signup-form input,
+.signup-form button{
+  display: inline-block;
+  width: 100%;
+  padding: .7rem 1rem;
+  border-radius: .3rem;
+  margin: 0;
+}
+
+.signup-form .error{
+  display: inline-block;
+  width: 100%;
+  text-align: left;
+  color: #ff2020;
+  font-size: .9rem;
+}
+
+.users{
+  list-style: none;
+  text-align: left;
+}
+
+.users h2{
+  margin-bottom: 1rem;
+  padding: .5rem;
+}
+
+.users li{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: .5rem;
+  margin-bottom: .7rem;
+}
